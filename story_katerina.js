@@ -2,7 +2,7 @@ const storyNodes = {
   "scene_1_start": {
     "id": "scene_1_start",
     "type": "story",
-    "title": "Start: Triatlon naruby",
+    "title": "IronyMan",
     "text": "Kačí, sobotní ráno.\nJsi na triatlonu „Sázava Naruby Cup“.\nOrganizátor hrdě hlásí, že je to „inovativní formát“ – začíná se kolem, pak běh a plavání nechali jako bonus pro odvážné.\n\nStojíš v depu.\nNa sobě máš helmu, v ruce boty, kolem tebe kola všech možných tvarů.\nJeden chlap má silničku, druhý skládací kolo, třetí elektrokoloběžku a tvrdí, že je to „v rámci regulí“.\n\nTobiáš ti nalepil číslo na záda vzhůru nohama.\nEliška MANGOVI (psovi) připevnila reflexní vestu s nápisem „Oficiální morální podpora“.\n\nRozhodčí do megafonu křičí:\n„Závodníci na kola! Jestli máte pocit, že je to celé špatně, tak máte pravdu!“\n\nCo uděláš jako první?",
     "choices": [
       {
@@ -259,3 +259,4 @@ const storyNodes = {
     "choices": []
   }
 };
+
